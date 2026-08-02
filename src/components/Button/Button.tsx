@@ -30,9 +30,9 @@ const VARIANT_CLASSES: Record<
   { base: string; interactive: string; forcedState: string; disabled: string }
 > = {
   primary: {
-    base: 'bg-[var(--color-background-accent-primary)] text-[color:var(--color-text-neutral-inverse)]',
-    interactive: 'hover:bg-[var(--color-background-accent-primary-hover)]',
-    forcedState: 'bg-[var(--color-background-accent-primary-hover)]',
+    base: 'bg-[#22c55e] text-[color:var(--color-text-neutral-inverse)]',
+    interactive: 'hover:bg-[#16a34a]',
+    forcedState: 'bg-[#16a34a]',
     disabled: 'bg-[var(--color-background-neutral-tertiary)] text-[color:var(--color-text-neutral-tertiary)]',
   },
   secondary: {
