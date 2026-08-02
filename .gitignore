@@ -16,6 +16,7 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 .idea
+.claude/
 .DS_Store
 *.suo
 *.ntvs*
@@ -25,3 +26,8 @@ dist-ssr
 
 *storybook.log
 storybook-static
+
+# Secrets
+.env
+.env.local
+.env.webarchive

@@ -1,0 +1,54 @@
+/* Generated from tokens.json — keep in sync with Figma (Variables — Starter Kit, node 2059:1499). */
+:root {
+  --color-background-accent-primary: #444ce7;
+  --color-background-accent-primary-hover: #2d31a6;
+  --color-background-neutral-primary: #ffffff;
+  --color-background-neutral-tertiary: #f8fafc;
+  --color-background-neutral-secondary: #fcfcfd;
+  --color-background-neutral-secondary-hover: #f8fafc;
+  --color-background-error-primary: #fffbfa;
+
+  --color-border-accent-primary: #444ce7;
+  --color-border-accent-secondary: #8098f9;
+  --color-border-neutral-primary: #9aa4b2;
+  --color-border-neutral-secondary: #e3e8ef;
+  --color-border-error-primary: #d92d20;
+
+  --color-text-neutral-primary: #202939;
+  --color-text-neutral-inverse: #fcfcfd;
+  --color-text-neutral-tertiary: #9aa4b2;
+  --color-text-neutral-secondary: #4b5565;
+  --color-text-error-primary: #d92d20;
+
+  --color-icon-neutral-inverse: #fcfcfd;
+  --color-icon-neutral-tertiary: #9aa4b2;
+
+  --spacing-100: 4px;
+  --spacing-150: 6px;
+  --spacing-200: 8px;
+  --spacing-300: 12px;
+  --spacing-400: 16px;
+  --spacing-600: 24px;
+  --spacing-800: 32px;
+
+  --radius-200: 8px;
+  --radius-2xl: 20px;
+
+  --border-width-050: 1px;
+  --border-width-100: 2px;
+
+  --shadow-xl: 0px 20px 12px rgba(10, 13, 18, 0.08), 0px 8px 4px rgba(10, 13, 18, 0.03), 0px 3px 1.5px rgba(10, 13, 18, 0.04);
+
+  --font-family-body: 'Inter', sans-serif;
+  --font-family-headings: 'Inter', sans-serif;
+  --font-weight-regular: 400;
+  --font-weight-semi-bold: 600;
+  --font-size-label: 12px;
+  --line-height-label: 14px;
+  --font-size-small: 14px;
+  --line-height-small: 16px;
+  --font-size-medium: 16px;
+  --line-height-medium: 20px;
+  --font-size-heading-3: 24px;
+  --line-height-heading-3: 30px;
+}
