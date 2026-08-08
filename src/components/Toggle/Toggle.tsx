@@ -42,7 +42,7 @@ export function Toggle({
     : 'bg-[var(--color-icon-neutral-inverse)]';
 
   const trackClasses = [
-    'relative inline-flex h-6 w-10 shrink-0 items-center rounded-full transition-colors duration-200 ease-in-out',
+    'relative inline-flex h-6 w-10 shrink-0 items-center px-0.5 rounded-full transition-colors duration-200 ease-in-out',
     'outline-none',
     FOCUS_VISIBLE_RING,
     disabled ? 'cursor-not-allowed' : 'cursor-pointer',
